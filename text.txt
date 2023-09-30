@@ -1,2 +1,0 @@
-Unicode is best
-git reset soft
